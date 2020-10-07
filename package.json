@@ -1,0 +1,22 @@
+{
+  "name": "cnodejs",
+  "version": "1.0.0",
+  "description": "nodeJs cource",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodeJs"
+  ],
+  "author": "Paul Alexeev <paulalexeev10@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
